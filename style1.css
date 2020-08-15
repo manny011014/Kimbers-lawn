@@ -1,0 +1,66 @@
+.nav {
+    background-color:blue;
+}
+.bg-cover {
+    background-image: img src="img/tacos.jpg" class="ml-3" alt="Responsive image"/>
+}
+.jumbotron {
+    background-image: url(img/lawn.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jumbotron h1{
+    color: yellow;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.jumbotron p{
+    color:white;
+    font-weight: bolder;}
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2 {
+    font-size: 20px;
+    line-height:1.5;
+}
+p{
+    color:#8f8f8f;
+}
+.icon {
+    color:brown;
+}
+    #features {
+        background-image: image();
+      padding: 5% 10%;  
+    }
+    .feature-box {
+        text-align: center;
+        padding: 5%;
+    }
+#footer {
+    padding: 7% 15%;
+    text-align:center;
+}
+.social-icon {
+    margin:20px 10px;
+}
+    #testimonials {
+        padding:10% 20%;
+        text-align: center;
+        background-color: green;
+        color:yellow;
+        font-size: smaller;
+        
+    }
+    .testimonial-image {
+        width:10%;
+        border-radius: 100%;
+        margin: 20px;
+    }
+
+    <h2 class="testimonial-text">I used to get up and just water my lawn for fun. Middle of the night. 3am, it didn't matter. It turned into a serious problem. I got help. Thank you Kimber. -Juan Rosa-Louis</h2>
+    <img class="testimonial-image" src="images/lady-img.jpg" alt="lady-profile">
+    <em>Newark, Delaware</em> -->
